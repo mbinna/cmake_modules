@@ -13,7 +13,7 @@ Provided Modules
 3. [**TBB**](https://www.threadingbuildingblocks.org/) lets you easily write parallel C++ programs that take full advantage of multicore performance.
 4. [**TinyXML**](http://www.grinninglizard.com/tinyxml/) is a simple, small, C++ XML parser.
 5. [**Xenomai**](http://www.xenomai.org/) is a real-time development framework cooperating with the Linux kernel.
-6. [**GSL**] (http://www.gnu.org/software/gsl/) is a numerical library for C and C++ programmers.
+6. [**GSL**](http://www.gnu.org/software/gsl/) is a numerical library for C and C++ programmers.
 
 Usage
 -----
